@@ -1,0 +1,30 @@
+ 
+
+
+body
+    {
+    margin: 5% 10%;
+    font-size: 100%;
+    background-color:darksalmon;
+}
+
+h1{
+    margin-left: 0;
+    color: deeppink;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 2.2em;
+}   
+h2{
+    margin-left: 0;
+    color:deeppink;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.8em;
+}   
+    
+    iframe {
+   max-width: 100%;
+}
+
+p{
+    font-family: 'Montserrat', sans-serif;
+}
