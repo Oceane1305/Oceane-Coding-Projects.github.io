@@ -34,4 +34,4 @@ Practice exercises and learning experiments
 
 Projects that reflect consistency, growth, and creativity
 
-I’m excited to continue growing as a developer and to keep turning ideas into real, functional projects. Thanks for stopping by—feel free to explore my work and follow along on my journey
+I’m excited to continue growing as a developer and to keep turning ideas into real, functional projects. Thanks for stopping by feel free to explore my work and follow along on my journey.
